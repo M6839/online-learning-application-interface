@@ -115,7 +115,7 @@ const Footer = () => {
             <h6 className="fw-bold">Get in Touch</h6>
 
             <p>Address: Nandyal,Andhra Pradesh</p>
-            <p> Phone:7997589153</p>
+            <p>Phone:7997589153</p>
             <p>Email: mkirankumar6839@gmail.com</p>
           </Col>
         </Row>
